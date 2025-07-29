@@ -16,32 +16,33 @@ line-height: 1.6;
 }
 
 .hero h2{
-    padding:50px 20ps;
+    padding:80px 20px;
 }
 
 .grid{
     display:grid;
-    gap:10px
+    gap:10px;
 }
 
 .grid div{
-    background-color: cadetblue;
-    padding: 20px
-    Border-radius
-    100px;
+    background-color:turquoise;
+    padding: 20px;
+    Border-radius: 100px;
 }
 
 @media (max-width: 768px){
     .hero h1{font-size:40px;}
-    body{background:lightcyan}
+    body{background:lightcyan;}
 }
 
 .hero-text{
     display: flex;
     flex-direction: column;
+    padding:100px ;
 }
 
 .hero img{
     border-radius: 50%;
+
     
 }

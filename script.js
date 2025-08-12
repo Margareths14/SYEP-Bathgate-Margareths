@@ -1,20 +1,20 @@
 const review=[
     {
         id: 1,
-        name:'susan smith',
-        job:'web developer',
-        img:'L057.jpg',
-        text:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iustoasperiores debitis incidunt, eius earum ipsam cupiditate libero?Iste, doloremque nihil?'
+        name:'Shelby Shoup',
+        job:'Middle school advisor/humanities teacher',
+        img:'Shelby shoup.jpg',
+        text:'Margareth is a wonderful student who is always eager to learn and grow. She was my advise from 6th to 8th grade, and I was consistently impressed by her dedication and her egerness to take on new challenges. She is a natural leader who is always willing to help her classmates. I have no doubt that she will continue to excel in all her future endeavors. I am so proud of her and cant wait to see all the amazing things she will accomplish in the future! '
     }
 ]
 
 
 {
         id: 1,
-        name: 'anna johnson',
+        name: 'Aminata Sako',
         job: 'web developer',
-        img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iustoasperiores debitis incidunt, eius earum ipsam cupiditate libero?Iste, doloremque nihil?'
+        img: '85099CF9-83D8-4B5B-8314-28424EFEF9CD.JPG',
+        text: 'Margareth is a dedicated and hardworking friend. She is always willing to lend a helping hand when she could and is always there to support her friends. She is a great listener and always has a positive attitude. Margareth is also very creative and has a great sense of humor. She is very passionate about her intrests and is always eager to try new things.'
     }
 
     {

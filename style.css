@@ -26,19 +26,19 @@ line-height: 1.6;
 
 .grid div{
     background-color:turquoise;
-    padding: 20px;
-    Border-radius: 100px;
+    padding: 40px;
+    Border-radius: 300px;
 }
 
 @media (max-width: 768px){
-    .hero h1{font-size:40px;}
+    .hero h1{font-size:50px;}
     body{background:lightcyan;}
 }
 
 .hero-text{
     display: flex;
     flex-direction: column;
-    padding:100px ;
+    padding:120px ;
 }
 
 .hero img{

@@ -26,8 +26,8 @@ line-height: 1.6;
 
 .grid div{
     background-color:turquoise;
-    padding: 40px;
-    Border-radius: 300px;
+    padding: 20px;
+    Border-radius: 250px;
 }
 
 @media (max-width: 768px){
@@ -45,4 +45,13 @@ line-height: 1.6;
     border-radius: 50%;
 
     
+}
+
+h2 {
+  font-family: Lobster;
+  color: lightcyan;
+}
+
+.bg-lightpink {
+  background-color:paleturquoise;
 }
